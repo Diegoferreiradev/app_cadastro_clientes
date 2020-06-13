@@ -1,0 +1,10 @@
+
+.customizar {
+    text-align: center;
+}
+
+.customizar h3:hover{
+    color: white;
+    text-transform: uppercase;
+    background-color: red;
+}
